@@ -192,3 +192,28 @@ header {
   position: relative;
   margin-bottom: 4rem;
 }
+
+.card-img {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: -60px;
+}
+
+.img-one {
+  background: url(Images/1.png);
+  background-position: center;
+  background-size: cover;
+}
+
+.img-two {
+  background: url(Images/2.png);
+  background-position: center;
+  background-size: cover;
+}
+
+.img-three {
+  background: url(Images/3.png);
+  background-position: center;
+  background-size: cover;
+}
